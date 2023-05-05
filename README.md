@@ -42,13 +42,13 @@ random-user-app (folder)
 ### Screenshot
 
 <p align="center">
-<a href="#"><img src="random_user_app.gif" alt="screenshot" width="100%"></a>
+<a href="https://kurtismail.github.io/randomuserapp/"><img src="random_user_app.gif" alt="screenshot" width="100%"></a>
 </p>
 
 
 ### Links
 
-- Live: [Live Website](#)
+- Live: [Live Website](https://kurtismail.github.io/randomuserapp/)
 
 
 ### Built with
